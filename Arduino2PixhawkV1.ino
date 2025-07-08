@@ -3,11 +3,11 @@
 #include "myUARTSensor.h"
 #include "myUART.h"
 #include "Orientation.h"
-
+// debug: test GPS function
 #define PIXHAWK_SERIAL Serial1
 #define Serial_xsens Serial2
 // For this project, we need 4 serial ports but Nano 33 IoT may have limitations
-// Use custom Serial3/Serial4 as defined in myUART.h
+// Use custom Serial3/Serial4 as defined in myUART.hgit branch
 #define NMEA_OUT_Serial Serial  // Use USB Serial for NMEA output (debugging)
 #define NMEA_IN_Serial Serial   // Use USB Serial for NMEA input (debugging)
 
