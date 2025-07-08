@@ -1,0 +1,7 @@
+#line 1 "C:\\Users\\user\\Documents\\GitHub\\Arduino2Pixhawk\\.vscode\\arduino.json"
+{
+    "sketch": "Arduino2Pixhawk.ino",
+    "output": "build",
+    "board": "arduino:samd:nano_33_iot",
+    "port": "COM20"
+}

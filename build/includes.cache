@@ -1,0 +1,167 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\user\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\samd\\1.8.13\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\user\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\samd\\1.8.13\\variants\\nano_33_iot"
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\GitHub\\Arduino2Pixhawk\\build\\sketch\\Arduino2Pixhawk.ino.cpp",
+    "Include": "MAVLink.h",
+    "Includepath": "C:\\Users\\user\\Documents\\Arduino\\libraries\\MAVLink"
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\GitHub\\Arduino2Pixhawk\\build\\sketch\\Arduino2Pixhawk.ino.cpp",
+    "Include": "myUARTSensor.h",
+    "Includepath": "C:\\Users\\user\\Documents\\Arduino\\libraries\\myArduinoSensor\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\GitHub\\Arduino2Pixhawk\\build\\sketch\\Arduino2Pixhawk.ino.cpp",
+    "Include": "uartRT.h",
+    "Includepath": "C:\\Users\\user\\Documents\\Arduino\\libraries\\uartRT"
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\GitHub\\Arduino2Pixhawk\\build\\sketch\\Arduino2Pixhawk.ino.cpp",
+    "Include": "Orientation.h",
+    "Includepath": "C:\\Users\\user\\Documents\\Arduino\\libraries\\myNavigation\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\GitHub\\Arduino2Pixhawk\\build\\sketch\\Arduino2Pixhawk.ino.cpp",
+    "Include": "ArduinoEigenDense.h",
+    "Includepath": "C:\\Users\\user\\Documents\\Arduino\\libraries\\Eigen"
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\GitHub\\Arduino2Pixhawk\\build\\sketch\\Arduino2Pixhawk.ino.cpp",
+    "Include": "ArxTypeTraits.h",
+    "Includepath": "C:\\Users\\user\\Documents\\Arduino\\libraries\\ArxTypeTraits"
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\GitHub\\Arduino2Pixhawk\\build\\sketch\\Arduino2Pixhawk.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\Arduino\\libraries\\myArduinoSensor\\src\\BMI270-Sensor-API\\bmi2.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\Arduino\\libraries\\myArduinoSensor\\src\\BMI270-Sensor-API\\bmi270.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\Arduino\\libraries\\myArduinoSensor\\src\\BMI270-Sensor-API\\bmi270_context.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\Arduino\\libraries\\myArduinoSensor\\src\\BMI270-Sensor-API\\bmi270_legacy.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\Arduino\\libraries\\myArduinoSensor\\src\\BMI270-Sensor-API\\bmi270_maximum_fifo.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\Arduino\\libraries\\myArduinoSensor\\src\\BMI270-Sensor-API\\bmi2_ois.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\Arduino\\libraries\\myArduinoSensor\\src\\BMM150-Sensor-API\\bmm150.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\Arduino\\libraries\\myArduinoSensor\\src\\LPS22HB\\LPS22HBSensor.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\user\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\samd\\1.8.13\\libraries\\Wire"
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\Arduino\\libraries\\myArduinoSensor\\src\\LPS22HB\\LPS22HBSensor.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Users\\user\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\samd\\1.8.13\\libraries\\SPI"
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\Arduino\\libraries\\myArduinoSensor\\src\\LPS22HB\\LPS22HBSensor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\Arduino\\libraries\\myArduinoSensor\\src\\LPS22HB\\LPS22HB_Driver.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\Arduino\\libraries\\myArduinoSensor\\src\\STM32duino_LSM6DS3\\LSM6DS3Sensor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\Arduino\\libraries\\myArduinoSensor\\src\\STM32duino_LSM6DS3\\LSM6DS3_ACC_GYRO_Driver.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\Arduino\\libraries\\myArduinoSensor\\src\\myI2CSensor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\Arduino\\libraries\\myArduinoSensor\\src\\myMessage.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\Arduino\\libraries\\myArduinoSensor\\src\\mySPISensor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\Arduino\\libraries\\myArduinoSensor\\src\\myUARTSensor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\Arduino\\libraries\\uartRT\\uartRT.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\Arduino\\libraries\\myNavigation\\src\\DataOutput.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\Arduino\\libraries\\myNavigation\\src\\MyNavigation.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\Arduino\\libraries\\myNavigation\\src\\Orientation.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\Documents\\Arduino\\libraries\\myNavigation\\src\\SensorParams.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\samd\\1.8.13\\libraries\\Wire\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\user\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\samd\\1.8.13\\libraries\\SPI\\SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
